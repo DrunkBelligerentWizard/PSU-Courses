@@ -1,0 +1,1419 @@
+[
+    {
+        "courseCode": "AGE 504",
+        "dist": [
+            {
+                "courseCode": "AGE 504",
+                "courseCredits": "1 to 15",
+                "courseDigit": 504,
+                "courseNumber": "504",
+                "credits": "1",
+                "deptName": "Urban Studies & Plan",
+                "description": null,
+                "displayTitle": "Cooperative Education/Internship",
+                "id": "28991",
+                "subjectCode": "AGE",
+                "subjectDesc": "Aging/Gerontology",
+                "years": [
+                    {
+                        "acayear": "2022-2023",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2022",
+                                "yearyy": "22"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2023",
+                                "yearyy": "23"
+                            }
+                        ],
+                        "year": "2022"
+                    },
+                    {
+                        "acayear": "2023-2024",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": true,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2024",
+                                "yearyy": "24"
+                            }
+                        ],
+                        "year": "2023"
+                    },
+                    {
+                        "acayear": "2024-2025",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2025",
+                                "yearyy": "25"
+                            }
+                        ],
+                        "year": "2024"
+                    }
+                ]
+            },
+            {
+                "courseCode": "AGE 504",
+                "courseCredits": "1 to 15",
+                "courseDigit": 504,
+                "courseNumber": "504",
+                "credits": "3",
+                "deptName": "Urban Studies & Plan",
+                "description": null,
+                "displayTitle": "Cooperative Education/Internship",
+                "id": "28991",
+                "subjectCode": "AGE",
+                "subjectDesc": "Aging/Gerontology",
+                "years": [
+                    {
+                        "acayear": "2022-2023",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2022",
+                                "yearyy": "22"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2023",
+                                "yearyy": "23"
+                            }
+                        ],
+                        "year": "2022"
+                    },
+                    {
+                        "acayear": "2023-2024",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2024",
+                                "yearyy": "24"
+                            }
+                        ],
+                        "year": "2023"
+                    },
+                    {
+                        "acayear": "2024-2025",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2025",
+                                "yearyy": "25"
+                            }
+                        ],
+                        "year": "2024"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseCode": "AGE 516",
+        "dist": [
+            {
+                "courseCode": "AGE 516",
+                "courseCredits": "4",
+                "courseDigit": 516,
+                "courseNumber": "516",
+                "credits": "4",
+                "deptName": "Urban Studies & Plan",
+                "description": null,
+                "displayTitle": "Families and Aging",
+                "id": "28975",
+                "subjectCode": "AGE",
+                "subjectDesc": "Aging/Gerontology",
+                "years": [
+                    {
+                        "acayear": "2022-2023",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2022",
+                                "yearyy": "22"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2023",
+                                "yearyy": "23"
+                            }
+                        ],
+                        "year": "2022"
+                    },
+                    {
+                        "acayear": "2023-2024",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": true,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2024",
+                                "yearyy": "24"
+                            }
+                        ],
+                        "year": "2023"
+                    },
+                    {
+                        "acayear": "2024-2025",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2025",
+                                "yearyy": "25"
+                            }
+                        ],
+                        "year": "2024"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseCode": "AGE 523",
+        "dist": [
+            {
+                "courseCode": "AGE 523",
+                "courseCredits": "4",
+                "courseDigit": 523,
+                "courseNumber": "523",
+                "credits": "4",
+                "deptName": "Urban Studies & Plan",
+                "description": null,
+                "displayTitle": "Business and Aging",
+                "id": "28976",
+                "subjectCode": "AGE",
+                "subjectDesc": "Aging/Gerontology",
+                "years": [
+                    {
+                        "acayear": "2022-2023",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2022",
+                                "yearyy": "22"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2023",
+                                "yearyy": "23"
+                            }
+                        ],
+                        "year": "2022"
+                    },
+                    {
+                        "acayear": "2023-2024",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": true,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2024",
+                                "yearyy": "24"
+                            }
+                        ],
+                        "year": "2023"
+                    },
+                    {
+                        "acayear": "2024-2025",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2025",
+                                "yearyy": "25"
+                            }
+                        ],
+                        "year": "2024"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseCode": "AGE 556",
+        "dist": [
+            {
+                "courseCode": "AGE 556",
+                "courseCredits": "4",
+                "courseDigit": 556,
+                "courseNumber": "556",
+                "credits": "4",
+                "deptName": "Urban Studies & Plan",
+                "description": null,
+                "displayTitle": "Health Aspects of Aging",
+                "id": "28977",
+                "subjectCode": "AGE",
+                "subjectDesc": "Aging/Gerontology",
+                "years": [
+                    {
+                        "acayear": "2022-2023",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2022",
+                                "yearyy": "22"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2023",
+                                "yearyy": "23"
+                            }
+                        ],
+                        "year": "2022"
+                    },
+                    {
+                        "acayear": "2023-2024",
+                        "terms": [
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2024",
+                                "yearyy": "24"
+                            }
+                        ],
+                        "year": "2023"
+                    },
+                    {
+                        "acayear": "2024-2025",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2025",
+                                "yearyy": "25"
+                            }
+                        ],
+                        "year": "2024"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseCode": "AGE 557",
+        "dist": [
+            {
+                "courseCode": "AGE 557",
+                "courseCredits": "3",
+                "courseDigit": 557,
+                "courseNumber": "557",
+                "credits": "3",
+                "deptName": "Urban Studies & Plan",
+                "description": null,
+                "displayTitle": "National Long-Term Care Policy",
+                "id": "28980",
+                "subjectCode": "AGE",
+                "subjectDesc": "Aging/Gerontology",
+                "years": [
+                    {
+                        "acayear": "2022-2023",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2022",
+                                "yearyy": "22"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2023",
+                                "yearyy": "23"
+                            }
+                        ],
+                        "year": "2022"
+                    },
+                    {
+                        "acayear": "2023-2024",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2024",
+                                "yearyy": "24"
+                            }
+                        ],
+                        "year": "2023"
+                    },
+                    {
+                        "acayear": "2024-2025",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2025",
+                                "yearyy": "25"
+                            }
+                        ],
+                        "year": "2024"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseCode": "AGE 558",
+        "dist": [
+            {
+                "courseCode": "AGE 558",
+                "courseCredits": "3",
+                "courseDigit": 558,
+                "courseNumber": "558",
+                "credits": "3",
+                "deptName": "Urban Studies & Plan",
+                "description": null,
+                "displayTitle": "Perspectives on Aging",
+                "id": "28982",
+                "subjectCode": "AGE",
+                "subjectDesc": "Aging/Gerontology",
+                "years": [
+                    {
+                        "acayear": "2022-2023",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2022",
+                                "yearyy": "22"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2023",
+                                "yearyy": "23"
+                            }
+                        ],
+                        "year": "2022"
+                    },
+                    {
+                        "acayear": "2023-2024",
+                        "terms": [
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": true,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2024",
+                                "yearyy": "24"
+                            }
+                        ],
+                        "year": "2023"
+                    },
+                    {
+                        "acayear": "2024-2025",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2025",
+                                "yearyy": "25"
+                            }
+                        ],
+                        "year": "2024"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseCode": "AGE 657",
+        "dist": [
+            {
+                "courseCode": "AGE 657",
+                "courseCredits": "3",
+                "courseDigit": 657,
+                "courseNumber": "657",
+                "credits": "3",
+                "deptName": "Urban Studies & Plan",
+                "description": null,
+                "displayTitle": "National Long-Term Care Policy",
+                "id": "28981",
+                "subjectCode": "AGE",
+                "subjectDesc": "Aging/Gerontology",
+                "years": [
+                    {
+                        "acayear": "2022-2023",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2022",
+                                "yearyy": "22"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2023",
+                                "yearyy": "23"
+                            }
+                        ],
+                        "year": "2022"
+                    },
+                    {
+                        "acayear": "2023-2024",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2024",
+                                "yearyy": "24"
+                            }
+                        ],
+                        "year": "2023"
+                    },
+                    {
+                        "acayear": "2024-2025",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2025",
+                                "yearyy": "25"
+                            }
+                        ],
+                        "year": "2024"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseCode": "AGE 658",
+        "dist": [
+            {
+                "courseCode": "AGE 658",
+                "courseCredits": "3",
+                "courseDigit": 658,
+                "courseNumber": "658",
+                "credits": "3",
+                "deptName": "Urban Studies & Plan",
+                "description": null,
+                "displayTitle": "Perspectives on Aging",
+                "id": "28983",
+                "subjectCode": "AGE",
+                "subjectDesc": "Aging/Gerontology",
+                "years": [
+                    {
+                        "acayear": "2022-2023",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2022",
+                                "yearyy": "22"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2023",
+                                "yearyy": "23"
+                            }
+                        ],
+                        "year": "2022"
+                    },
+                    {
+                        "acayear": "2023-2024",
+                        "terms": [
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2024",
+                                "yearyy": "24"
+                            }
+                        ],
+                        "year": "2023"
+                    },
+                    {
+                        "acayear": "2024-2025",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2025",
+                                "yearyy": "25"
+                            }
+                        ],
+                        "year": "2024"
+                    }
+                ]
+            }
+        ]
+    }
+]

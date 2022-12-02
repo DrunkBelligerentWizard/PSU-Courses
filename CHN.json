@@ -1,0 +1,4268 @@
+[
+    {
+        "courseCode": "CHN 101",
+        "dist": [
+            {
+                "courseCode": "CHN 101",
+                "courseCredits": "5",
+                "courseDigit": 101,
+                "courseNumber": "101",
+                "credits": "5",
+                "deptName": "World Languages & Literatures",
+                "description": "First-Year Chinese. Default description for First-Year Chinese.",
+                "displayTitle": "First-Year Chinese Term 1",
+                "id": "19773",
+                "subjectCode": "CHN",
+                "subjectDesc": "Chinese",
+                "years": [
+                    {
+                        "acayear": "2022-2023",
+                        "terms": [
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2022",
+                                "yearyy": "22"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2023",
+                                "yearyy": "23"
+                            }
+                        ],
+                        "year": "2022"
+                    },
+                    {
+                        "acayear": "2023-2024",
+                        "terms": [
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2024",
+                                "yearyy": "24"
+                            }
+                        ],
+                        "year": "2023"
+                    },
+                    {
+                        "acayear": "2024-2025",
+                        "terms": [
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2025",
+                                "yearyy": "25"
+                            }
+                        ],
+                        "year": "2024"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseCode": "CHN 102",
+        "dist": [
+            {
+                "courseCode": "CHN 102",
+                "courseCredits": "5",
+                "courseDigit": 102,
+                "courseNumber": "102",
+                "credits": "5",
+                "deptName": "World Languages & Literatures",
+                "description": "First-Year Chinese. Default description for First-Year Chinese.",
+                "displayTitle": "First-Year Chinese Term 2",
+                "id": "19774",
+                "subjectCode": "CHN",
+                "subjectDesc": "Chinese",
+                "years": [
+                    {
+                        "acayear": "2022-2023",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2022",
+                                "yearyy": "22"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2023",
+                                "yearyy": "23"
+                            }
+                        ],
+                        "year": "2022"
+                    },
+                    {
+                        "acayear": "2023-2024",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2024",
+                                "yearyy": "24"
+                            }
+                        ],
+                        "year": "2023"
+                    },
+                    {
+                        "acayear": "2024-2025",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2025",
+                                "yearyy": "25"
+                            }
+                        ],
+                        "year": "2024"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseCode": "CHN 103",
+        "dist": [
+            {
+                "courseCode": "CHN 103",
+                "courseCredits": "5",
+                "courseDigit": 103,
+                "courseNumber": "103",
+                "credits": "5",
+                "deptName": "World Languages & Literatures",
+                "description": "First-Year Chinese. Default description for First-Year Chinese.",
+                "displayTitle": "First-Year Chinese Term 3",
+                "id": "19775",
+                "subjectCode": "CHN",
+                "subjectDesc": "Chinese",
+                "years": [
+                    {
+                        "acayear": "2022-2023",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2022",
+                                "yearyy": "22"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2023",
+                                "yearyy": "23"
+                            }
+                        ],
+                        "year": "2022"
+                    },
+                    {
+                        "acayear": "2023-2024",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2024",
+                                "yearyy": "24"
+                            }
+                        ],
+                        "year": "2023"
+                    },
+                    {
+                        "acayear": "2024-2025",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2025",
+                                "yearyy": "25"
+                            }
+                        ],
+                        "year": "2024"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseCode": "CHN 201",
+        "dist": [
+            {
+                "courseCode": "CHN 201",
+                "courseCredits": "5",
+                "courseDigit": 201,
+                "courseNumber": "201",
+                "credits": "5",
+                "deptName": "World Languages & Literatures",
+                "description": "Second-Year Chinese. Default description for Second-Year Chinese.",
+                "displayTitle": "Second-Year Chinese Term 1",
+                "id": "19776",
+                "subjectCode": "CHN",
+                "subjectDesc": "Chinese",
+                "years": [
+                    {
+                        "acayear": "2022-2023",
+                        "terms": [
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2022",
+                                "yearyy": "22"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2023",
+                                "yearyy": "23"
+                            }
+                        ],
+                        "year": "2022"
+                    },
+                    {
+                        "acayear": "2023-2024",
+                        "terms": [
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2024",
+                                "yearyy": "24"
+                            }
+                        ],
+                        "year": "2023"
+                    },
+                    {
+                        "acayear": "2024-2025",
+                        "terms": [
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2025",
+                                "yearyy": "25"
+                            }
+                        ],
+                        "year": "2024"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseCode": "CHN 202",
+        "dist": [
+            {
+                "courseCode": "CHN 202",
+                "courseCredits": "5",
+                "courseDigit": 202,
+                "courseNumber": "202",
+                "credits": "5",
+                "deptName": "World Languages & Literatures",
+                "description": "Second-Year Chinese. Default description for Second-Year Chinese.",
+                "displayTitle": "Second-Year Chinese Term 2",
+                "id": "19777",
+                "subjectCode": "CHN",
+                "subjectDesc": "Chinese",
+                "years": [
+                    {
+                        "acayear": "2022-2023",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2022",
+                                "yearyy": "22"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2023",
+                                "yearyy": "23"
+                            }
+                        ],
+                        "year": "2022"
+                    },
+                    {
+                        "acayear": "2023-2024",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2024",
+                                "yearyy": "24"
+                            }
+                        ],
+                        "year": "2023"
+                    },
+                    {
+                        "acayear": "2024-2025",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2025",
+                                "yearyy": "25"
+                            }
+                        ],
+                        "year": "2024"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseCode": "CHN 203",
+        "dist": [
+            {
+                "courseCode": "CHN 203",
+                "courseCredits": "5",
+                "courseDigit": 203,
+                "courseNumber": "203",
+                "credits": "5",
+                "deptName": "World Languages & Literatures",
+                "description": "Second-Year Chinese. Default description for Second-Year Chinese.",
+                "displayTitle": "Second-Year Chinese Term 3",
+                "id": "19778",
+                "subjectCode": "CHN",
+                "subjectDesc": "Chinese",
+                "years": [
+                    {
+                        "acayear": "2022-2023",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2022",
+                                "yearyy": "22"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2023",
+                                "yearyy": "23"
+                            }
+                        ],
+                        "year": "2022"
+                    },
+                    {
+                        "acayear": "2023-2024",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2024",
+                                "yearyy": "24"
+                            }
+                        ],
+                        "year": "2023"
+                    },
+                    {
+                        "acayear": "2024-2025",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2025",
+                                "yearyy": "25"
+                            }
+                        ],
+                        "year": "2024"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseCode": "CHN 301",
+        "dist": [
+            {
+                "courseCode": "CHN 301",
+                "courseCredits": "4",
+                "courseDigit": 301,
+                "courseNumber": "301",
+                "credits": "4",
+                "deptName": "World Languages & Literatures",
+                "description": "Third-Year Chinese. Default description for Third-Year Chinese.",
+                "displayTitle": "Third-Year Chinese Term 1",
+                "id": "19779",
+                "subjectCode": "CHN",
+                "subjectDesc": "Chinese",
+                "years": [
+                    {
+                        "acayear": "2022-2023",
+                        "terms": [
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2022",
+                                "yearyy": "22"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2023",
+                                "yearyy": "23"
+                            }
+                        ],
+                        "year": "2022"
+                    },
+                    {
+                        "acayear": "2023-2024",
+                        "terms": [
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2024",
+                                "yearyy": "24"
+                            }
+                        ],
+                        "year": "2023"
+                    },
+                    {
+                        "acayear": "2024-2025",
+                        "terms": [
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2025",
+                                "yearyy": "25"
+                            }
+                        ],
+                        "year": "2024"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseCode": "CHN 302",
+        "dist": [
+            {
+                "courseCode": "CHN 302",
+                "courseCredits": "4",
+                "courseDigit": 302,
+                "courseNumber": "302",
+                "credits": "4",
+                "deptName": "World Languages & Literatures",
+                "description": "Third-Year Chinese. Default description for Third-Year Chinese.",
+                "displayTitle": "Third-Year Chinese Term 2",
+                "id": "19780",
+                "subjectCode": "CHN",
+                "subjectDesc": "Chinese",
+                "years": [
+                    {
+                        "acayear": "2022-2023",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2022",
+                                "yearyy": "22"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2023",
+                                "yearyy": "23"
+                            }
+                        ],
+                        "year": "2022"
+                    },
+                    {
+                        "acayear": "2023-2024",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2024",
+                                "yearyy": "24"
+                            }
+                        ],
+                        "year": "2023"
+                    },
+                    {
+                        "acayear": "2024-2025",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2025",
+                                "yearyy": "25"
+                            }
+                        ],
+                        "year": "2024"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseCode": "CHN 303",
+        "dist": [
+            {
+                "courseCode": "CHN 303",
+                "courseCredits": "4",
+                "courseDigit": 303,
+                "courseNumber": "303",
+                "credits": "4",
+                "deptName": "World Languages & Literatures",
+                "description": "Third-Year Chinese. Default description for Third-Year Chinese.",
+                "displayTitle": "Third-Year Chinese Term 3",
+                "id": "19781",
+                "subjectCode": "CHN",
+                "subjectDesc": "Chinese",
+                "years": [
+                    {
+                        "acayear": "2022-2023",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2022",
+                                "yearyy": "22"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2023",
+                                "yearyy": "23"
+                            }
+                        ],
+                        "year": "2022"
+                    },
+                    {
+                        "acayear": "2023-2024",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2024",
+                                "yearyy": "24"
+                            }
+                        ],
+                        "year": "2023"
+                    },
+                    {
+                        "acayear": "2024-2025",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2025",
+                                "yearyy": "25"
+                            }
+                        ],
+                        "year": "2024"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseCode": "CHN 304",
+        "dist": [
+            {
+                "courseCode": "CHN 304",
+                "courseCredits": "4",
+                "courseDigit": 304,
+                "courseNumber": "304",
+                "credits": "4",
+                "deptName": "World Languages & Literatures",
+                "description": "CHINESE NEWSPAPER READINGS. Default description for CHINESE NEWSPAPER READINGS.",
+                "displayTitle": "Chinese Newspaper Readings",
+                "id": "4853",
+                "subjectCode": "CHN",
+                "subjectDesc": "Chinese",
+                "years": [
+                    {
+                        "acayear": "2022-2023",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2022",
+                                "yearyy": "22"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2023",
+                                "yearyy": "23"
+                            }
+                        ],
+                        "year": "2022"
+                    },
+                    {
+                        "acayear": "2023-2024",
+                        "terms": [
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2024",
+                                "yearyy": "24"
+                            }
+                        ],
+                        "year": "2023"
+                    },
+                    {
+                        "acayear": "2024-2025",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2025",
+                                "yearyy": "25"
+                            }
+                        ],
+                        "year": "2024"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseCode": "CHN 311",
+        "dist": [
+            {
+                "courseCode": "CHN 311",
+                "courseCredits": "4",
+                "courseDigit": 311,
+                "courseNumber": "311",
+                "credits": "4",
+                "deptName": "World Languages & Literatures",
+                "description": null,
+                "displayTitle": "Introductory Classical Chinese",
+                "id": "14449",
+                "subjectCode": "CHN",
+                "subjectDesc": "Chinese",
+                "years": [
+                    {
+                        "acayear": "2022-2023",
+                        "terms": [
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2022",
+                                "yearyy": "22"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2023",
+                                "yearyy": "23"
+                            }
+                        ],
+                        "year": "2022"
+                    },
+                    {
+                        "acayear": "2023-2024",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2024",
+                                "yearyy": "24"
+                            }
+                        ],
+                        "year": "2023"
+                    },
+                    {
+                        "acayear": "2024-2025",
+                        "terms": [
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2025",
+                                "yearyy": "25"
+                            }
+                        ],
+                        "year": "2024"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseCode": "CHN 312",
+        "dist": [
+            {
+                "courseCode": "CHN 312",
+                "courseCredits": "4",
+                "courseDigit": 312,
+                "courseNumber": "312",
+                "credits": "4",
+                "deptName": "World Languages & Literatures",
+                "description": null,
+                "displayTitle": "Introductory Classical Chinese",
+                "id": "4973",
+                "subjectCode": "CHN",
+                "subjectDesc": "Chinese",
+                "years": [
+                    {
+                        "acayear": "2022-2023",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2022",
+                                "yearyy": "22"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2023",
+                                "yearyy": "23"
+                            }
+                        ],
+                        "year": "2022"
+                    },
+                    {
+                        "acayear": "2023-2024",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2024",
+                                "yearyy": "24"
+                            }
+                        ],
+                        "year": "2023"
+                    },
+                    {
+                        "acayear": "2024-2025",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2025",
+                                "yearyy": "25"
+                            }
+                        ],
+                        "year": "2024"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseCode": "CHN 341U",
+        "dist": [
+            {
+                "courseCode": "CHN 341U",
+                "courseCredits": "4",
+                "courseDigit": 341,
+                "courseNumber": "341U",
+                "credits": "4",
+                "deptName": "World Languages & Literatures",
+                "description": "TOPICS CHINESE LIT:SVC&RETREAT. Default description for TOPICS CHINESE LIT:SVC&RETREAT.",
+                "displayTitle": "Topics in Chinese Literature and Thought: Service and Retreat",
+                "id": "18633",
+                "subjectCode": "CHN",
+                "subjectDesc": "Chinese",
+                "years": [
+                    {
+                        "acayear": "2022-2023",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2022",
+                                "yearyy": "22"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2023",
+                                "yearyy": "23"
+                            }
+                        ],
+                        "year": "2022"
+                    },
+                    {
+                        "acayear": "2023-2024",
+                        "terms": [
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2024",
+                                "yearyy": "24"
+                            }
+                        ],
+                        "year": "2023"
+                    },
+                    {
+                        "acayear": "2024-2025",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2025",
+                                "yearyy": "25"
+                            }
+                        ],
+                        "year": "2024"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseCode": "CHN 342U",
+        "dist": [
+            {
+                "courseCode": "CHN 342U",
+                "courseCredits": "4",
+                "courseDigit": 342,
+                "courseNumber": "342U",
+                "credits": "4",
+                "deptName": "World Languages & Literatures",
+                "description": null,
+                "displayTitle": "Chinese Vernacular Literature: Pre-Mod",
+                "id": "6972",
+                "subjectCode": "CHN",
+                "subjectDesc": "Chinese",
+                "years": [
+                    {
+                        "acayear": "2022-2023",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2022",
+                                "yearyy": "22"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2023",
+                                "yearyy": "23"
+                            }
+                        ],
+                        "year": "2022"
+                    },
+                    {
+                        "acayear": "2023-2024",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2024",
+                                "yearyy": "24"
+                            }
+                        ],
+                        "year": "2023"
+                    },
+                    {
+                        "acayear": "2024-2025",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2025",
+                                "yearyy": "25"
+                            }
+                        ],
+                        "year": "2024"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseCode": "CHN 343U",
+        "dist": [
+            {
+                "courseCode": "CHN 343U",
+                "courseCredits": "4",
+                "courseDigit": 343,
+                "courseNumber": "343U",
+                "credits": "4",
+                "deptName": "World Languages & Literatures",
+                "description": null,
+                "displayTitle": "Chinese Vernacular Literature: Modern",
+                "id": "17256",
+                "subjectCode": "CHN",
+                "subjectDesc": "Chinese",
+                "years": [
+                    {
+                        "acayear": "2022-2023",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2022",
+                                "yearyy": "22"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2023",
+                                "yearyy": "23"
+                            }
+                        ],
+                        "year": "2022"
+                    },
+                    {
+                        "acayear": "2023-2024",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2024",
+                                "yearyy": "24"
+                            }
+                        ],
+                        "year": "2023"
+                    },
+                    {
+                        "acayear": "2024-2025",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2025",
+                                "yearyy": "25"
+                            }
+                        ],
+                        "year": "2024"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseCode": "CHN 411",
+        "dist": [
+            {
+                "courseCode": "CHN 411",
+                "courseCredits": "4",
+                "courseDigit": 411,
+                "courseNumber": "411",
+                "credits": "4",
+                "deptName": "World Languages & Literatures",
+                "description": null,
+                "displayTitle": "Advanced Chinese",
+                "id": "4858",
+                "subjectCode": "CHN",
+                "subjectDesc": "Chinese",
+                "years": [
+                    {
+                        "acayear": "2022-2023",
+                        "terms": [
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2022",
+                                "yearyy": "22"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2023",
+                                "yearyy": "23"
+                            }
+                        ],
+                        "year": "2022"
+                    },
+                    {
+                        "acayear": "2023-2024",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2024",
+                                "yearyy": "24"
+                            }
+                        ],
+                        "year": "2023"
+                    },
+                    {
+                        "acayear": "2024-2025",
+                        "terms": [
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2025",
+                                "yearyy": "25"
+                            }
+                        ],
+                        "year": "2024"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseCode": "CHN 412",
+        "dist": [
+            {
+                "courseCode": "CHN 412",
+                "courseCredits": "4",
+                "courseDigit": 412,
+                "courseNumber": "412",
+                "credits": "4",
+                "deptName": "World Languages & Literatures",
+                "description": null,
+                "displayTitle": "Advanced Chinese: Philosophers",
+                "id": "17257",
+                "subjectCode": "CHN",
+                "subjectDesc": "Chinese",
+                "years": [
+                    {
+                        "acayear": "2022-2023",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2022",
+                                "yearyy": "22"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2023",
+                                "yearyy": "23"
+                            }
+                        ],
+                        "year": "2022"
+                    },
+                    {
+                        "acayear": "2023-2024",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2024",
+                                "yearyy": "24"
+                            }
+                        ],
+                        "year": "2023"
+                    },
+                    {
+                        "acayear": "2024-2025",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2025",
+                                "yearyy": "25"
+                            }
+                        ],
+                        "year": "2024"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseCode": "CHN 413",
+        "dist": [
+            {
+                "courseCode": "CHN 413",
+                "courseCredits": "4",
+                "courseDigit": 413,
+                "courseNumber": "413",
+                "credits": "4",
+                "deptName": "World Languages & Literatures",
+                "description": null,
+                "displayTitle": "Advanced Classical Chinese",
+                "id": "10025",
+                "subjectCode": "CHN",
+                "subjectDesc": "Chinese",
+                "years": [
+                    {
+                        "acayear": "2022-2023",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2022",
+                                "yearyy": "22"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2023",
+                                "yearyy": "23"
+                            }
+                        ],
+                        "year": "2022"
+                    },
+                    {
+                        "acayear": "2023-2024",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2024",
+                                "yearyy": "24"
+                            }
+                        ],
+                        "year": "2023"
+                    },
+                    {
+                        "acayear": "2024-2025",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2025",
+                                "yearyy": "25"
+                            }
+                        ],
+                        "year": "2024"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseCode": "CHN 420",
+        "dist": [
+            {
+                "courseCode": "CHN 420",
+                "courseCredits": "4",
+                "courseDigit": 420,
+                "courseNumber": "420",
+                "credits": "4",
+                "deptName": "World Languages & Literatures",
+                "description": null,
+                "displayTitle": "Readings in Chinese Literature: Premodern Fiction",
+                "id": "4859",
+                "subjectCode": "CHN",
+                "subjectDesc": "Chinese",
+                "years": [
+                    {
+                        "acayear": "2022-2023",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2022",
+                                "yearyy": "22"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2023",
+                                "yearyy": "23"
+                            }
+                        ],
+                        "year": "2022"
+                    },
+                    {
+                        "acayear": "2023-2024",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2024",
+                                "yearyy": "24"
+                            }
+                        ],
+                        "year": "2023"
+                    },
+                    {
+                        "acayear": "2024-2025",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2025",
+                                "yearyy": "25"
+                            }
+                        ],
+                        "year": "2024"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseCode": "CHN 421",
+        "dist": [
+            {
+                "courseCode": "CHN 421",
+                "courseCredits": "4",
+                "courseDigit": 421,
+                "courseNumber": "421",
+                "credits": "4",
+                "deptName": "World Languages & Literatures",
+                "description": null,
+                "displayTitle": "Readings in Chinese Literature: RURAL CHINA",
+                "id": "4978",
+                "subjectCode": "CHN",
+                "subjectDesc": "Chinese",
+                "years": [
+                    {
+                        "acayear": "2022-2023",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2022",
+                                "yearyy": "22"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2023",
+                                "yearyy": "23"
+                            }
+                        ],
+                        "year": "2022"
+                    },
+                    {
+                        "acayear": "2023-2024",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2024",
+                                "yearyy": "24"
+                            }
+                        ],
+                        "year": "2023"
+                    },
+                    {
+                        "acayear": "2024-2025",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2025",
+                                "yearyy": "25"
+                            }
+                        ],
+                        "year": "2024"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseCode": "CHN 490",
+        "dist": [
+            {
+                "courseCode": "CHN 490",
+                "courseCredits": "4",
+                "courseDigit": 490,
+                "courseNumber": "490",
+                "credits": "4",
+                "deptName": "World Languages & Literatures",
+                "description": null,
+                "displayTitle": "History of the Chinese Language",
+                "id": "4860",
+                "subjectCode": "CHN",
+                "subjectDesc": "Chinese",
+                "years": [
+                    {
+                        "acayear": "2022-2023",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2022",
+                                "yearyy": "22"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2023",
+                                "yearyy": "23"
+                            }
+                        ],
+                        "year": "2022"
+                    },
+                    {
+                        "acayear": "2023-2024",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2024",
+                                "yearyy": "24"
+                            }
+                        ],
+                        "year": "2023"
+                    },
+                    {
+                        "acayear": "2024-2025",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2025",
+                                "yearyy": "25"
+                            }
+                        ],
+                        "year": "2024"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseCode": "CHN 511",
+        "dist": [
+            {
+                "courseCode": "CHN 511",
+                "courseCredits": "4",
+                "courseDigit": 511,
+                "courseNumber": "511",
+                "credits": "4",
+                "deptName": "World Languages & Literatures",
+                "description": null,
+                "displayTitle": "Advanced Chinese",
+                "id": "10952",
+                "subjectCode": "CHN",
+                "subjectDesc": "Chinese",
+                "years": [
+                    {
+                        "acayear": "2022-2023",
+                        "terms": [
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2022",
+                                "yearyy": "22"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2023",
+                                "yearyy": "23"
+                            }
+                        ],
+                        "year": "2022"
+                    },
+                    {
+                        "acayear": "2023-2024",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2024",
+                                "yearyy": "24"
+                            }
+                        ],
+                        "year": "2023"
+                    },
+                    {
+                        "acayear": "2024-2025",
+                        "terms": [
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2025",
+                                "yearyy": "25"
+                            }
+                        ],
+                        "year": "2024"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseCode": "CHN 512",
+        "dist": [
+            {
+                "courseCode": "CHN 512",
+                "courseCredits": "4",
+                "courseDigit": 512,
+                "courseNumber": "512",
+                "credits": "4",
+                "deptName": "World Languages & Literatures",
+                "description": null,
+                "displayTitle": "Advanced Chinese: Philosophers",
+                "id": "17258",
+                "subjectCode": "CHN",
+                "subjectDesc": "Chinese",
+                "years": [
+                    {
+                        "acayear": "2022-2023",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2022",
+                                "yearyy": "22"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2023",
+                                "yearyy": "23"
+                            }
+                        ],
+                        "year": "2022"
+                    },
+                    {
+                        "acayear": "2023-2024",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2024",
+                                "yearyy": "24"
+                            }
+                        ],
+                        "year": "2023"
+                    },
+                    {
+                        "acayear": "2024-2025",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2025",
+                                "yearyy": "25"
+                            }
+                        ],
+                        "year": "2024"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseCode": "CHN 513",
+        "dist": [
+            {
+                "courseCode": "CHN 513",
+                "courseCredits": "4",
+                "courseDigit": 513,
+                "courseNumber": "513",
+                "credits": "4",
+                "deptName": "World Languages & Literatures",
+                "description": null,
+                "displayTitle": "Advanced Classical Chinese",
+                "id": "10026",
+                "subjectCode": "CHN",
+                "subjectDesc": "Chinese",
+                "years": [
+                    {
+                        "acayear": "2022-2023",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2022",
+                                "yearyy": "22"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2023",
+                                "yearyy": "23"
+                            }
+                        ],
+                        "year": "2022"
+                    },
+                    {
+                        "acayear": "2023-2024",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2024",
+                                "yearyy": "24"
+                            }
+                        ],
+                        "year": "2023"
+                    },
+                    {
+                        "acayear": "2024-2025",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2025",
+                                "yearyy": "25"
+                            }
+                        ],
+                        "year": "2024"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseCode": "CHN 520",
+        "dist": [
+            {
+                "courseCode": "CHN 520",
+                "courseCredits": "4",
+                "courseDigit": 520,
+                "courseNumber": "520",
+                "credits": "4",
+                "deptName": "World Languages & Literatures",
+                "description": null,
+                "displayTitle": "Readings in Chinese Literature: Premodern Fiction",
+                "id": "10478",
+                "subjectCode": "CHN",
+                "subjectDesc": "Chinese",
+                "years": [
+                    {
+                        "acayear": "2022-2023",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2022",
+                                "yearyy": "22"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2023",
+                                "yearyy": "23"
+                            }
+                        ],
+                        "year": "2022"
+                    },
+                    {
+                        "acayear": "2023-2024",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2024",
+                                "yearyy": "24"
+                            }
+                        ],
+                        "year": "2023"
+                    },
+                    {
+                        "acayear": "2024-2025",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2025",
+                                "yearyy": "25"
+                            }
+                        ],
+                        "year": "2024"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseCode": "CHN 521",
+        "dist": [
+            {
+                "courseCode": "CHN 521",
+                "courseCredits": "4",
+                "courseDigit": 521,
+                "courseNumber": "521",
+                "credits": "4",
+                "deptName": "World Languages & Literatures",
+                "description": null,
+                "displayTitle": "Readings in Chinese Literature: RURAL CHINA",
+                "id": "9987",
+                "subjectCode": "CHN",
+                "subjectDesc": "Chinese",
+                "years": [
+                    {
+                        "acayear": "2022-2023",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2022",
+                                "yearyy": "22"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2023",
+                                "yearyy": "23"
+                            }
+                        ],
+                        "year": "2022"
+                    },
+                    {
+                        "acayear": "2023-2024",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2024",
+                                "yearyy": "24"
+                            }
+                        ],
+                        "year": "2023"
+                    },
+                    {
+                        "acayear": "2024-2025",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2025",
+                                "yearyy": "25"
+                            }
+                        ],
+                        "year": "2024"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "courseCode": "CHN 590",
+        "dist": [
+            {
+                "courseCode": "CHN 590",
+                "courseCredits": "4",
+                "courseDigit": 590,
+                "courseNumber": "590",
+                "credits": "4",
+                "deptName": "World Languages & Literatures",
+                "description": null,
+                "displayTitle": "History of the Chinese Language",
+                "id": "9812",
+                "subjectCode": "CHN",
+                "subjectDesc": "Chinese",
+                "years": [
+                    {
+                        "acayear": "2022-2023",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2022",
+                                "yearyy": "22"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2023",
+                                "yearyy": "23"
+                            }
+                        ],
+                        "year": "2022"
+                    },
+                    {
+                        "acayear": "2023-2024",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2024",
+                                "yearyy": "24"
+                            }
+                        ],
+                        "year": "2023"
+                    },
+                    {
+                        "acayear": "2024-2025",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2025",
+                                "yearyy": "25"
+                            }
+                        ],
+                        "year": "2024"
+                    }
+                ]
+            }
+        ]
+    }
+]

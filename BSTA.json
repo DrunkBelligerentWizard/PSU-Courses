@@ -1,0 +1,160 @@
+[
+    {
+        "courseCode": "BSTA 525",
+        "dist": [
+            {
+                "courseCode": "BSTA 525",
+                "courseCredits": "4",
+                "courseDigit": 525,
+                "courseNumber": "525",
+                "credits": "4",
+                "deptName": "Biostatisics",
+                "description": null,
+                "displayTitle": "Introduction to Biostatistics",
+                "id": "30829",
+                "subjectCode": "BSTA",
+                "subjectDesc": "Biostatistics",
+                "years": [
+                    {
+                        "acayear": "2022-2023",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2022",
+                                "yearyy": "22"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2023",
+                                "yearyy": "23"
+                            }
+                        ],
+                        "year": "2022"
+                    },
+                    {
+                        "acayear": "2023-2024",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2023",
+                                "yearyy": "23"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": true,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2024",
+                                "yearyy": "24"
+                            }
+                        ],
+                        "year": "2023"
+                    },
+                    {
+                        "acayear": "2024-2025",
+                        "terms": [
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "FA",
+                                "year": "2024",
+                                "yearyy": "24"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "WI",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SP",
+                                "year": "2025",
+                                "yearyy": "25"
+                            },
+                            {
+                                "active": false,
+                                "cancelled": false,
+                                "evenings": false,
+                                "online": false,
+                                "tentative": false,
+                                "term": "SU",
+                                "year": "2025",
+                                "yearyy": "25"
+                            }
+                        ],
+                        "year": "2024"
+                    }
+                ]
+            }
+        ]
+    }
+]
